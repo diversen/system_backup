@@ -2,8 +2,8 @@
 
 
 
-include_once _COS_PATH . "/scripts/common.php";
-include_once _COS_PATH . "/scripts/commands/db.php";
+include_once _COS_PATH . "/scripts/shell_base/common.inc";
+include_once _COS_PATH . "/scripts/shell_base/db.inc";
 
 // {{{ dump_db()
 /**
