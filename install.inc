@@ -15,3 +15,4 @@ $_INSTALL['SUB_MENU_ITEM'] = array (
 $_INSTALL['PARENT'] = 'system';
 
 $_INSTALL['PUBLIC_CLONE_URL'] = 'git://github.com/diversen/system_backup.git';
+$_INSTALL['PRIVATE_CLONE_URL'] = 'git@github.com:diversen/system_backup.git';
